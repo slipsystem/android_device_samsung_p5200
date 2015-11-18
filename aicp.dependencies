@@ -1,0 +1,17 @@
+[
+  {
+    "repository":  "nels83/android_kernel_samsung_santos10",
+    "target_path": "kernel/samsung/santos10",
+    "branch":      "cm-12.1"
+  },
+  {
+    "repository":  "CyanogenMod/android_packages_apps_SamsungServiceMode",
+    "target_path": "packages/apps/SamsungServiceMode",
+    "branch":      "cm-12.1"
+  },
+  {
+    "repository":  "CyanogenMod/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch":      "cm-12.1"
+  }
+]
