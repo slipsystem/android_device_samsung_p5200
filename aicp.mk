@@ -29,7 +29,7 @@ $(call inherit-product, vendor/aicp/configs/common.mk)
 $(call inherit-product, device/samsung/p5200/full_p5200.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := cm_p5200
+PRODUCT_NAME := aicp_p5200
 
 #Set build fingerprint / ID / Prduct Name ect.
 PRODUCT_BUILD_PROP_OVERRIDES += \
